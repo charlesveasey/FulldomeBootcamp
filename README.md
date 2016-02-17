@@ -1,6 +1,6 @@
 FulldomeBootcamp
 ================
 
-Fulldome military game from Unity Template. 
+Fulldome military game modified from the Unity *Bootcamp* template project.
 
-**Requires Unity 4. Does not work with Unity 5.**
+**Requires Unity 4 Pro. Does not work with Unity 5.**
